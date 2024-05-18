@@ -12,7 +12,7 @@ export const Bio = {
     setting.`,
   github: "https://github.com/Kira714",
   resume:
-    "https://drive.google.com/file/d/1yrmzV6ZuiUIPvTLwkRvThFKYlBASgUtw/view?usp=sharing",
+    "https://drive.google.com/file/d/16FoaTky_E1129ndeXSUZvdkdkiSv0ttm/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/sachit-kumbhat-168082225/",
   twitter: "https://twitter.com/KumbhatSachit",
   insta: "https://www.instagram.com/sachitt_kumbhatt/?next=%2F",
