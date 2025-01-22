@@ -350,7 +350,7 @@ export const projects = [
     title: "Titanic Survival Challenge",
     date: "Aug 2023 - Sep 2023",
     description:
-      "It is a famous Kaggle Challenge which was solved by me in this manner.I got an efficacy of 77.2%",
+      "It is a famous Kaggle Challenge which was solved by me in this manner.I got an efficiency of 77.2%",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9RUdWqnlQ4fzYu4qKe1YcozHoeOoB64bRTxAQRsAlQ&s",
     tags: ["Python", "Pandas", "Keras", "Classifiers"],
